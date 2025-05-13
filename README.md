@@ -48,12 +48,10 @@ This project is a step-by-step journey into modern deep learning architectures, 
 ```plaintext
 ViT-Implementation/
 ├── task1_cnn/
-│   └── cnn_model.py
+│   └── cnn_model.ipynb
 ├── task2_transformer/
-│   ├── attention_is_all_you_need_notes.md
-│   └── encoder_decoder_from_scratch.py
+│   └── encoder_decoder_from_scratch.ipynb
 ├── task3_vit/
-│   ├── vit_paper_notes.md
-│   └── vit_from_scratch.py
+│   └── vit_from_scratch.ipynb
 └── README.md
 ```
