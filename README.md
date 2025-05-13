@@ -49,8 +49,6 @@ This project is a step-by-step journey into modern deep learning architectures, 
 ViT-Implementation/
 ├── task1_cnn/
 │   └── cnn_model.ipynb
-├── task2_transformer/
-│   └── encoder_decoder_from_scratch.ipynb
 ├── task3_vit/
 │   └── vit_from_scratch.ipynb
 └── README.md
